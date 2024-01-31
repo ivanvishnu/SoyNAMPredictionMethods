@@ -1,2 +1,2 @@
 # SoyNAMPredictionMethods
-R Package that accompanies "Factors Affecting Response to Recurrent Genomic Selection in Soybeans Vishnu Ramasubramanian, William D Beavis bioRxiv 2020.02.14.949008; doi: https://doi.org/10.1101/2020.02.14.949008"
+Rpackage to perform long-term recurrent genomic selection simulations and evaluate response to selection. Several genomic prediction models such as RRBLUP, Bayes-B, Sayes-LASSO and SVMs can be compared and evaluated for both prediction accuracies and response to selection.  This Package accompanies the publication "Factors Affecting Response to Recurrent Genomic Selection in Soybeans Vishnu Ramasubramanian, William D Beavis bioRxiv 2020.02.14.949008; doi: https://doi.org/10.1101/2020.02.14.949008"
