@@ -1,0 +1,3 @@
+useDynLib(SoyNAMPredictionMethods)
+importFrom(Rcpp, sourceCpp)
+exportPattern("^[[:alpha:]]+")
